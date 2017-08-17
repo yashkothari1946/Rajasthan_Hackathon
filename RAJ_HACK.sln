@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAJ_HACK", "Assembly-CSharp.csproj", "{53D1C160-CBF4-A6D4-F939-98CC02587AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAJ_HACK", "Assembly-CSharp-Editor.csproj", "{E0CCDE25-088A-EBDA-BC95-A72E6EDCD671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D1C160-CBF4-A6D4-F939-98CC02587AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D1C160-CBF4-A6D4-F939-98CC02587AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D1C160-CBF4-A6D4-F939-98CC02587AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D1C160-CBF4-A6D4-F939-98CC02587AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0CCDE25-088A-EBDA-BC95-A72E6EDCD671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CCDE25-088A-EBDA-BC95-A72E6EDCD671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CCDE25-088A-EBDA-BC95-A72E6EDCD671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CCDE25-088A-EBDA-BC95-A72E6EDCD671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
