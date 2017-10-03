@@ -13,6 +13,10 @@ With the help of this android app , the pre primary students will be able to ana
  * Download Unity platform (https://unity3d.com/get-unity/download)
  * Import this project file into Unity. 
  
+How to run Project on Android
+=============================
+* Download the android application file from github (https://github.com/ansh-ptel/Rajasthan_Hackathon/tree/master/Apk)
+* Install it on your Android phone.
 
 ![Screenshot](https://raw.github.com/vivekghanchi/Rajasthan_Hackathon/master/ScreenShot/marker.jpg)
 
