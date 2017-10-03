@@ -1,5 +1,24 @@
 # Rajasthan_Hackathon
-An AR project for getting 3d objects from a word
+ARAlpha
+=======
+
+Another Paragraph 
+
+'''
+<p>This is AR app </p>
+'''
+
+1.this
+2.is
+3.a
+4.AR app
+
+* Bullets
+* points
+
+ansh-ptel.github.io
+
+[Google] (http://ansh-ptel.github.io)
 
 ![Screenshot](https://raw.github.com/vivekghanchi/Rajasthan_Hackathon/master/ScreenShot/marker.jpg)
 
