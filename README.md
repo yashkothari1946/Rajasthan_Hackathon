@@ -1,6 +1,5 @@
 # Rajasthan_Hackathon
 
-=======
 ARAlpha
 =======
 
