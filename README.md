@@ -20,3 +20,10 @@ How to run Project on Android
 
 ![Screenshot](https://raw.github.com/vivekghanchi/Rajasthan_Hackathon/master/ScreenShot/marker1.jpg)
 
+## Contributers
+
+- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
+- Anshu Patel  ([@ansh-ptel](https://github.com/ansh-ptel))
+- Yash Kothari  ([@yashkothari1946](https://github.com/yashkothari1946))
+- Mohit Chug ([@softwave7498] (https://github.com/softwave7498))
+
