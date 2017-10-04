@@ -25,5 +25,5 @@ How to run Project on Android
 - Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
 - Anshu Patel  ([@ansh-ptel](https://github.com/ansh-ptel))
 - Yash Kothari  ([@yashkothari1946](https://github.com/yashkothari1946))
-- Mohit Chug ([@softwave7498] (https://github.com/softwave7498))
+- Mohit Chug ([@softwave7498](https://github.com/softwave7498))
 
