@@ -15,10 +15,11 @@ With the help of this android app , the pre primary students will be able to ana
 * [Download the android application file from github](https://github.com/ansh-ptel/Rajasthan_Hackathon/tree/master/Apk)
 * Install it on your Android phone.
 
-#### Screenshots
-![Screenshot](https://raw.github.com/vivekghanchi/Rajasthan_Hackathon/master/ScreenShot/marker.jpg)
+### Screenshots of a sample Android app
 
-![Screenshot](https://raw.github.com/vivekghanchi/Rajasthan_Hackathon/master/ScreenShot/marker1.jpg)
+<p align="center">
+<img src="ScreenShot/marker.jpg" height = "270" width="270"> <img src="ScreenShot/marker1.jpg" height = "270" width="270"> 
+</p> 
 
 #### Contributers
 
