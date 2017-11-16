@@ -1,4 +1,4 @@
-# Rajasthan_Hackathon
+# Rajasthan_Hackathon 2.0
 
 ## ARAlpha
 
