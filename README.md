@@ -24,7 +24,7 @@ With the help of this android app , the pre primary students will be able to ana
 
 #### Youtube  Video Link
 
-- [Video Link](https://www.youtube.com/watch?v=CGzeUVqV_SI)
+- [Video](https://www.youtube.com/watch?v=CGzeUVqV_SI)
 
 #### Contributers
 
