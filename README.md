@@ -28,6 +28,4 @@ With the help of this android app , the pre primary students will be able to ana
 - Yash Kothari  ([@yashkothari1946](https://github.com/yashkothari1946))
 - Mohit Chug ([@softwave7498](https://github.com/softwave7498))
 
-#### Youtube  Video Link
 
-- [Video Link](https://www.youtube.com/watch?v=CGzeUVqV_SI)
