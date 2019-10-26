@@ -1,4 +1,4 @@
-# Rajasthan_Hackathon 2.0
+# Rajasthan_Hackathon 2.0 kota hackathon
 
 ## AR Alpha
 
