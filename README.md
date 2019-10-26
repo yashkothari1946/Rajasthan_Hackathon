@@ -13,7 +13,7 @@ With the help of this android app , the pre primary students will be able to ana
  
 #### How to run Project on Android
 * [Download the android application file from github](https://github.com/ansh-ptel/Rajasthan_Hackathon/tree/master/Apk)
-* Install it on your Android phone.
+* Install it on your Android phone and experience it. 
 
 ### Preview of a sample Android app
 
