@@ -15,7 +15,7 @@ With the help of this android app , the pre primary students will be able to ana
 * [Download the android application file from github](https://github.com/ansh-ptel/Rajasthan_Hackathon/tree/master/Apk)
 * Install it on your Android phone.
 
-### Screenshots of a sample Android app
+### Preview of a sample Android app
 
 <p align="center">
 <img src="ScreenShot/marker.jpg" height = "270" width="270"> <img src="ScreenShot/marker1.jpg" height = "270" width="270"> 
